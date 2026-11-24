@@ -1,4 +1,3 @@
-# mon-parcours
 # Mon Parcours : Python, Cybersécurité & IA 🚀
 
 Bienvenue sur mon dépôt de suivi de progression !
